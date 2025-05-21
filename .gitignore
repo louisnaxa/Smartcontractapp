@@ -1,0 +1,5 @@
+/target
+/spl_token_minter/.git/
+node_modules/
+.env
+*.lock
